@@ -1,4 +1,4 @@
-# jezrael
+# Franklin
 
 ## Project setup
 ```
